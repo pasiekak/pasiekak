@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @pasiekak.
 - 🤔 I’m interested in IT/Programming.
-- 📖 Currently studying IT at University of Silesia.
+- 👀 Focused on Frontend
+- 💪 My main stack: React, Node.js, TypeScript, MySQL, HTML5, CSS3, git, figma, express
+- 👍 Familiar with: Java, Electron, mongoDB, python, Blender, 
+- 📖 Recently ended first-cycle studies in IT at University of Silesia.
 - 📘 Specialization - Software Engineering.
+- 🏡 [My website](https://kris4635.usermd.net/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-pasieka-37b818297/)
 
 <!---
 pasiekak/pasiekak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
