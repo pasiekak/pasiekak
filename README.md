@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @pasiekak.
-- 🤔 I’m interested in IT/Programming.
-- 👀 Focused on Frontend
-- 💪 My main stack: React, Node.js, TypeScript, MySQL, HTML5, CSS3, git, figma, express
-- 👍 Familiar with: Java, Electron, mongoDB, python, Blender, 
-- 📖 Recently ended first-cycle studies in IT at University of Silesia.
+- 👀 Focused on frontend
+- 💪 My main stack: Angular, NestJS, TypeScript, React, MySQL, PostgreSQL, HTML5, CSS3, git, figma.
+- 👍 Familiar with: Java, Spring, Electron, mongoDB, python, Blender, UE5.
+- 📖 CS graduate at University of Silesia.
 - 📘 Specialization - Software Engineering.
 - 🏡 [My website](https://kris4635.usermd.net/)
 
