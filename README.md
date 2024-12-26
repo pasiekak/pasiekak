@@ -6,7 +6,6 @@
 - 📖 Recently ended first-cycle studies in IT at University of Silesia.
 - 📘 Specialization - Software Engineering.
 - 🏡 [My website](https://kris4635.usermd.net/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-pasieka-37b818297/)
 
 <!---
 pasiekak/pasiekak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
